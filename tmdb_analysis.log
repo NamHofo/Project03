@@ -1,0 +1,25 @@
+2025-02-13 09:31:48 - INFO - CSV file loaded successfully.
+2025-02-13 09:31:49 - INFO - Fixed release_date format.
+2025-02-13 09:31:49 - INFO - Converted columns to string type.
+2025-02-13 09:31:49 - INFO - Sorted movies by release_date and saved to sorted_by_date.csv.
+2025-02-13 09:31:49 - INFO - Filtered 350 movies with vote_average > 7.5 and saved to filtered_by_vote_avg.csv.
+2025-02-13 09:32:10 - INFO - CSV file loaded successfully.
+2025-02-13 09:32:11 - INFO - Fixed release_date format.
+2025-02-13 09:32:11 - INFO - Converted columns to string type.
+2025-02-13 09:32:11 - INFO - Sorted movies by release_date and saved to sorted_by_date.csv.
+2025-02-13 09:32:11 - INFO - Filtered 350 movies with vote_average > 7.5 and saved to filtered_by_vote_avg.csv.
+2025-02-13 09:32:11 - INFO - Movie with highest revenue:      original_title     revenue
+1386         Avatar  2781505847
+2025-02-13 09:32:11 - INFO - Movie with lowest revenue:                     original_title  revenue
+48                       Wild Card        0
+67                        Survivor        0
+74          Mythica: The Darkspore        0
+75  Me and Earl and the Dying Girl        0
+92        Mythica: The Necromancer        0
+2025-02-13 09:32:11 - INFO - Total revenue of all movies: 432720192875
+2025-02-13 09:32:11 - INFO - Top 10 movies with highest revenue:
+2025-02-13 09:32:11 - INFO - {'original_title': {1386: 'Avatar', 3: 'Star Wars: The Force Awakens', 5231: 'Titanic', 4361: 'The Avengers', 0: 'Jurassic World', 4: 'Furious 7', 14: 'Avengers: Age of Ultron', 3374: 'Harry Potter and the Deathly Hallows: Part 2', 5422: 'Frozen', 5425: 'Iron Man 3'}, 'revenue': {1386: 2781505847, 3: 2068178225, 5231: 1845034188, 4361: 1519557910, 0: 1513528810, 4: 1506249360, 14: 1405035767, 3374: 1327817822, 5422: 1274219009, 5425: 1215439994}}
+2025-02-13 09:32:11 - INFO - Director with most films: Woody Allen
+2025-02-13 09:32:11 - INFO - Actor with most films: Robert De Niro
+2025-02-13 09:32:11 - INFO - Top Genres:
+2025-02-13 09:32:11 - INFO - {'Drama': 4761, 'Comedy': 3793, 'Thriller': 2908, 'Action': 2385, 'Romance': 1712, 'Horror': 1637, 'Adventure': 1471, 'Crime': 1355, 'Family': 1231, 'Science Fiction': 1230, 'Fantasy': 916, 'Mystery': 810, 'Animation': 699, 'Documentary': 520, 'Music': 408, 'History': 334, 'War': 270, 'Foreign': 188, 'TV Movie': 167, 'Western': 165}
